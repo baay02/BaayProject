@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<group>
+    <person id="1">
+        <name>Bilyamin</name>
+        <age>34</age>
+        <weight>67</weight>
+        <height>1.72</height>
+
+    <person id="2">
+        <name>Abdullahi</name>
+        <age>73</age>
+        <weight>78</weight>
+	<height>1.8</height>
+
+</group>
